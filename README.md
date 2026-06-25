@@ -15,9 +15,11 @@ submitted, I want that data to save somewhere.
 I also heard we might connect a mobile app down the road, so the person building it told
 me to ask you to make the animal data available "through an API, as JSON." I don't
 really know what that means but apparently you do!
-Done when...
-Staff can open a page and fill out a form to add a new animal
-Submitting the form actually saves the animal
-The full list of animals is available as JSON
-A single animal can be looked up by ID as JSON
-A new animal can be saved via the API directly 
+
+
+You are done when...
+-Staff can open a page and fill out a form to add a new animal
+-Submitting the form actually saves the animal
+-The full list of animals is available as JSON
+-A single animal can be looked up by ID as JSON
+-A new animal can be saved via the API directly 
